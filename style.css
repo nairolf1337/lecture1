@@ -1,0 +1,23 @@
+* {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+html {
+  background-image: url("images/egirardet_jump.jpg");
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.8);
+  width: inherit;
+  height: 80vh;
+  margin: 5vw;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 48px;
+}
